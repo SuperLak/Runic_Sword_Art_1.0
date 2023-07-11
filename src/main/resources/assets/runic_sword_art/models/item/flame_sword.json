@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "runic_sword_art:item/flame_sword"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "runic_sword_art:item/runic_fragment"
+  }
+}
